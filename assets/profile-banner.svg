@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Cameron Marriott — Inspectable Intelligent Systems</title>
+  <desc id="desc">A deep navy banner with a copper, cream, and cyan pixel citadel connecting agent nodes, beside Cameron Marriott's portfolio statement.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1727"/>
+      <stop offset="1" stop-color="#101b2b"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#45cbd1" stop-opacity="0.20"/>
+      <stop offset="0.48" stop-color="#45cbd1" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#45cbd1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#6d89a3" stroke-width="1" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#27394f" stroke-width="2"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="220" cy="178" r="178" fill="url(#aura)"/>
+
+  <!-- Pixel citadel / neural arch -->
+  <g shape-rendering="crispEdges">
+    <!-- satellites -->
+    <g fill="#45cbd1">
+      <rect x="64" y="102" width="10" height="10"/>
+      <rect x="80" y="118" width="10" height="10" opacity="0.82"/>
+      <rect x="48" y="150" width="10" height="10" opacity="0.72"/>
+      <rect x="356" y="104" width="10" height="10"/>
+      <rect x="340" y="122" width="10" height="10" opacity="0.82"/>
+      <rect x="372" y="154" width="10" height="10" opacity="0.72"/>
+      <rect x="112" y="64" width="10" height="10" opacity="0.66"/>
+      <rect x="310" y="66" width="10" height="10" opacity="0.66"/>
+      <rect x="90" y="226" width="10" height="10" opacity="0.78"/>
+      <rect x="330" y="228" width="10" height="10" opacity="0.78"/>
+    </g>
+
+    <!-- central crown -->
+    <g fill="#d78a4b">
+      <rect x="204" y="38" width="16" height="16"/>
+      <rect x="188" y="54" width="48" height="16"/>
+      <rect x="172" y="70" width="80" height="18"/>
+      <rect x="184" y="88" width="56" height="80"/>
+      <rect x="168" y="104" width="16" height="48"/>
+      <rect x="240" y="104" width="16" height="48"/>
+    </g>
+    <g fill="#f0cf96">
+      <rect x="204" y="54" width="16" height="16"/>
+      <rect x="200" y="88" width="24" height="16"/>
+      <rect x="196" y="120" width="32" height="32"/>
+    </g>
+    <rect x="204" y="128" width="16" height="16" fill="#45cbd1"/>
+    <rect x="208" y="132" width="8" height="8" fill="#07111f"/>
+
+    <!-- branch connectors -->
+    <g fill="#f0cf96">
+      <rect x="160" y="152" width="16" height="16"/>
+      <rect x="144" y="168" width="16" height="16"/>
+      <rect x="128" y="184" width="16" height="16"/>
+      <rect x="112" y="200" width="16" height="16"/>
+      <rect x="248" y="152" width="16" height="16"/>
+      <rect x="264" y="168" width="16" height="16"/>
+      <rect x="280" y="184" width="16" height="16"/>
+      <rect x="296" y="200" width="16" height="16"/>
+    </g>
+    <g fill="#d78a4b">
+      <rect x="144" y="152" width="16" height="16"/>
+      <rect x="128" y="168" width="16" height="16"/>
+      <rect x="112" y="184" width="16" height="16"/>
+      <rect x="96" y="200" width="16" height="16"/>
+      <rect x="264" y="152" width="16" height="16"/>
+      <rect x="280" y="168" width="16" height="16"/>
+      <rect x="296" y="184" width="16" height="16"/>
+      <rect x="312" y="200" width="16" height="16"/>
+    </g>
+
+    <!-- lower agent towers -->
+    <g fill="#d78a4b">
+      <rect x="76" y="216" width="72" height="16"/>
+      <rect x="88" y="232" width="48" height="64"/>
+      <rect x="72" y="280" width="16" height="32"/>
+      <rect x="136" y="280" width="16" height="32"/>
+      <rect x="276" y="216" width="72" height="16"/>
+      <rect x="288" y="232" width="48" height="64"/>
+      <rect x="272" y="280" width="16" height="32"/>
+      <rect x="336" y="280" width="16" height="32"/>
+    </g>
+    <g fill="#f0cf96">
+      <rect x="96" y="232" width="32" height="16"/>
+      <rect x="96" y="248" width="32" height="32"/>
+      <rect x="296" y="232" width="32" height="16"/>
+      <rect x="296" y="248" width="32" height="32"/>
+    </g>
+    <g fill="#45cbd1">
+      <rect x="104" y="256" width="16" height="16"/>
+      <rect x="304" y="256" width="16" height="16"/>
+      <rect x="168" y="304" width="16" height="8" opacity="0.74"/>
+      <rect x="192" y="312" width="16" height="8" opacity="0.86"/>
+      <rect x="216" y="312" width="16" height="8" opacity="0.86"/>
+      <rect x="240" y="304" width="16" height="8" opacity="0.74"/>
+    </g>
+  </g>
+
+  <line x1="430" y1="64" x2="430" y2="296" stroke="#2a4056" stroke-width="2"/>
+
+  <!-- Portfolio statement -->
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="486" y="91" fill="#45cbd1" font-size="18" font-weight="650" letter-spacing="4">CAMERON MARRIOTT</text>
+    <text x="486" y="155" fill="#f7f3e8" font-size="48" font-weight="750" letter-spacing="1">INSPECTABLE</text>
+    <text x="486" y="209" fill="#f7f3e8" font-size="48" font-weight="750" letter-spacing="1">INTELLIGENT SYSTEMS</text>
+    <text x="488" y="251" fill="#aebdca" font-size="19" letter-spacing="0.5">Deterministic where necessary. Evidence visible by design.</text>
+    <g font-size="13" font-weight="650" letter-spacing="2.1">
+      <text x="488" y="300" fill="#d78a4b">CONVERSATION</text>
+      <text x="644" y="300" fill="#536b80">/</text>
+      <text x="668" y="300" fill="#f0cf96">COORDINATION</text>
+      <text x="834" y="300" fill="#536b80">/</text>
+      <text x="858" y="300" fill="#45cbd1">RESEARCH</text>
+      <text x="968" y="300" fill="#536b80">/</text>
+      <text x="992" y="300" fill="#d78a4b">EMERGENT WORLDS</text>
+    </g>
+  </g>
+</svg>
