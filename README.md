@@ -22,31 +22,51 @@
 
 ### Agent Sandbox
 
-**Emergent worlds.** A deterministic living world where agents turn pressure, experimentation, memory, and culture into civilizational change.<br />
-_Current focus: emergent materials, skills, institutions, visible labor, and construction._
+**Emergent worlds.** A deterministic living world where agents turn pressure, experimentation, memory, and culture into civilizational change.
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/agent-sandbox-poster.png" />
+  <img src="./assets/animations/agent-sandbox.gif" alt="Pixel-art Agent Sandbox story: agents gather resources, test discoveries, build roads and workshops, and form a connected civilization around a luminous citadel." width="100%" />
+</picture>
+
+_Current focus: emergent materials, skills, institutions, visible labor, and construction._ · [View static poster](./assets/animations/agent-sandbox-poster.png)
 
 ### Mira
 
-**Conversation.** A Discord-native AI operations room for voice, research, memory, and multimodal collaboration.<br />
-_Current focus: live voice, evidence trails, trust receipts, creative tools, and operator control._
+**Conversation.** A Discord-native AI operations room for voice, research, memory, and multimodal collaboration.
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/mira-poster.png" />
+  <img src="./assets/animations/mira.gif" alt="Pixel-art Mira story: a voice node branches to sources, returns evidence, assembles memory and creative tools, and resolves into an operator-controlled collaboration citadel." width="100%" />
+</picture>
+
+_Current focus: live voice, evidence trails, trust receipts, creative tools, and operator control._ · [View static poster](./assets/animations/mira-poster.png)
 
 ### Automata
 
-**Coordination.** An orchestration system for supervising coding agents with bounded authority and durable architectural context.<br />
-_Current focus: scoped work, evidence-backed handoffs, architecture memory, and validation loops._
+**Coordination.** An orchestration system for supervising coding agents with bounded authority and durable architectural context.
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/automata-poster.png" />
+  <img src="./assets/animations/automata.gif" alt="Pixel-art Automata story: an orchestrator scopes work across bounded agents, routes evidence through validation gates, and records handoffs in architecture memory." width="100%" />
+</picture>
+
+_Current focus: scoped work, evidence-backed handoffs, architecture memory, and validation loops._ · [View static poster](./assets/animations/automata-poster.png)
 
 ### Spider Sense
 
-**Research.** An evidence-first research system that ranks sources and keeps synthesis traceable.<br />
-_Current focus: discovery, contradiction checks, freshness checks, and source-backed synthesis._
+**Research.** An evidence-first research system that ranks sources and keeps synthesis traceable.
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/spider-sense-poster.png" />
+  <img src="./assets/animations/spider-sense.gif" alt="Pixel-art Spider Sense story: radar discovers sources, evidence flows through contradiction and freshness checks, and ranked claims resolve into a traceable synthesis." width="100%" />
+</picture>
+
+_Current focus: discovery, contradiction checks, freshness checks, and source-backed synthesis._ · [View static poster](./assets/animations/spider-sense-poster.png)
 
 > **Agent Sandbox evolves. Mira collaborates. Automata coordinates. Spider Sense investigates.**
 >
 > **Portfolio scope:** All four systems are under private development. This profile shares their product direction and engineering principles; the implementation remains private.
-
-<p align="center">
-  <img src="./assets/systems-ecosystem.png" alt="Four pixel-art system habitats connected to a central inspectable-intelligence citadel" width="100%" />
-</p>
 
 ## One design language
 
@@ -61,11 +81,53 @@ _Current focus: discovery, contradiction checks, freshness checks, and source-ba
 
 ## Engineering principles
 
-- **Authority is explicit** — models propose; validated systems decide what changes
-- **Evidence stays inspectable** — claims, sources, decisions, and fallbacks remain traceable
-- **Agency stays bounded** — permissions, costs, memory, and side effects are scoped
-- **Emergence stays composable** — complexity grows from small interoperable systems
-- **Knowledge boundaries stay clear** — simulation, memory, inference, generation, and verification remain distinguishable
+<table>
+  <tr>
+    <td width="96" align="center">
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/principles/authority-poster.png" />
+        <img src="./assets/animations/principles/authority.gif" alt="A proposal enters a gate; a validated-state pulse exits while rejected paths remain closed." width="80" />
+      </picture>
+    </td>
+    <td><strong>Authority is explicit</strong><br />Models propose; validated systems decide what changes.</td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/principles/evidence-poster.png" />
+        <img src="./assets/animations/principles/evidence.gif" alt="Three source nodes illuminate in sequence and retain visible paths to a central evidence ledger." width="80" />
+      </picture>
+    </td>
+    <td><strong>Evidence stays inspectable</strong><br />Claims, sources, decisions, and fallbacks remain traceable.</td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/principles/agency-poster.png" />
+        <img src="./assets/animations/principles/agency.gif" alt="An agent moves within a scope ring bounded by permission, cost, memory, and side-effect rails." width="80" />
+      </picture>
+    </td>
+    <td><strong>Agency stays bounded</strong><br />Permissions, costs, memory, and side effects are scoped.</td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/principles/emergence-poster.png" />
+        <img src="./assets/animations/principles/emergence.gif" alt="Simple connected nodes branch into interoperable structures that form a miniature neural citadel." width="80" />
+      </picture>
+    </td>
+    <td><strong>Emergence stays composable</strong><br />Complexity grows from small interoperable systems.</td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="./assets/animations/principles/boundaries-poster.png" />
+        <img src="./assets/animations/principles/boundaries.gif" alt="Simulation, memory, inference, generation, and verification orbit as distinct but connected nodes." width="80" />
+      </picture>
+    </td>
+    <td><strong>Knowledge boundaries stay clear</strong><br />Simulation, memory, inference, generation, and verification remain distinguishable.</td>
+  </tr>
+</table>
 
 ## Building now
 

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "provider": "OpenAI Image API",
+  "call_count": 4,
+  "call_limit": 8,
+  "generations": [
+    {
+      "project": "Agent Sandbox",
+      "generation_timestamp_utc": "2026-07-10T23:40:52.1635324Z",
+      "model": "gpt-image-2",
+      "requested_dimensions": "3072x1024",
+      "quality": "high",
+      "prompt_sha256": "07c17b1d8bed6ad4f94d343643b6137dc22babaa76ab550ea2e4902f87f4f564",
+      "input_reference_filenames": [
+        "ChatGPT Image Jul 10, 2026, 06_05_18 PM (1).png"
+      ],
+      "output_filename": "assets/animations/sources/agent-sandbox-provider-v1.png",
+      "output_sha256": "26a5ddf4fe83754d17d1407c078752ab781de72097c9294671f77d3ffb636058",
+      "generation_attempt": "first",
+      "retry_reason": null
+    },
+    {
+      "project": "Mira",
+      "generation_timestamp_utc": "2026-07-10T23:40:53.1936346Z",
+      "model": "gpt-image-2",
+      "requested_dimensions": "3072x1024",
+      "quality": "high",
+      "prompt_sha256": "efa64eee8c49ff56051b38e7febb24b03af584f43ef537ecb4a818be86ecea56",
+      "input_reference_filenames": [
+        "ChatGPT Image Jul 10, 2026, 06_05_38 PM (2).png"
+      ],
+      "output_filename": "assets/animations/sources/mira-provider-v1.png",
+      "output_sha256": "231a2bb697657333accb730183e4765e3285878e5a46c96910c00d4d306f7151",
+      "generation_attempt": "first",
+      "retry_reason": null
+    },
+    {
+      "project": "Automata",
+      "generation_timestamp_utc": "2026-07-10T23:40:54.8268330Z",
+      "model": "gpt-image-2",
+      "requested_dimensions": "3072x1024",
+      "quality": "high",
+      "prompt_sha256": "e03bd983e50f798ce9edd725fcdf5b7ae9b2a48a1a1f3ce92b399c388c24db1b",
+      "input_reference_filenames": [
+        "ChatGPT Image Jul 10, 2026, 06_05_38 PM (3).png"
+      ],
+      "output_filename": "assets/animations/sources/automata-provider-v1.png",
+      "output_sha256": "d7ab2d6c399458f0879e2ee65f9a36d9e9e897a060bf008367ce4e524820c85e",
+      "generation_attempt": "first",
+      "retry_reason": null
+    },
+    {
+      "project": "Spider Sense",
+      "generation_timestamp_utc": "2026-07-10T23:40:49.9651067Z",
+      "model": "gpt-image-2",
+      "requested_dimensions": "3072x1024",
+      "quality": "high",
+      "prompt_sha256": "273d6bb0a4994fe9eeebd016660331f9959a4b77516d98692235529636814063",
+      "input_reference_filenames": [
+        "ChatGPT Image Jul 10, 2026, 06_05_19 PM (4).png"
+      ],
+      "output_filename": "assets/animations/sources/spider-sense-provider-v1.png",
+      "output_sha256": "f53fd451d1cbcdd89db0b86b146c6262bd04a7c5bd7cd1e5bf840d84bdab1d22",
+      "generation_attempt": "first",
+      "retry_reason": null
+    }
+  ]
+}
