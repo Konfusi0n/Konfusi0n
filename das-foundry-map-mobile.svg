@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1590" viewBox="0 0 800 1590" role="img" aria-labelledby="title desc">
+<title id="title">The Direct Autonomy Systems foundry</title>
+<desc id="desc">A mobile systems map showing Aureon-Hermes, Mira, Spider Sense, and Automata above a shared bounded-authority substrate and distinct product systems below it.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05090d"/><stop offset="1" stop-color="#0a1118"/></linearGradient>
+ <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse"><path d="M52 0H0V52" fill="none" stroke="#6a8495" stroke-opacity=".10"/><path d="M0 52L52 0" stroke="#6a8495" stroke-opacity=".055"/></pattern>
+ <style>
+  .card{fill:#0a1118;stroke:#4b5e6b;stroke-width:1.5}
+  .role{font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:700;font-size:14px;letter-spacing:2px}
+  .title{fill:#f4f7f9;font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:750;font-size:31px}
+  .body{fill:#aebbc4;font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:500;font-size:16px}
+  .rail-title{fill:#f4f7f9;font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:750;font-size:25px}
+  .rail-body{fill:#aebbc4;font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:500;font-size:15px}
+ </style>
+</defs>
+<rect width="800" height="1590" rx="26" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="797" height="1587" rx="24.5" fill="none" stroke="#536774" stroke-width="3"/>
+<rect width="800" height="1590" rx="26" fill="url(#grid)"/>
+<text x="400" y="58" text-anchor="middle" fill="#56d5ff" style="font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:700;font-size:17px;letter-spacing:4px">THE DIRECT AUTONOMY FOUNDRY</text>
+<text x="400" y="98" text-anchor="middle" fill="#dce4e9" style="font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:650;font-size:22px">One foundry. Distinct systems.</text>
+<text x="400" y="128" text-anchor="middle" fill="#aebbc4" style="font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:500;font-size:16px">Shared laws—not shared sovereignty.</text>
+
+    <g>
+      <rect x="50" y="155" width="700" height="135" rx="18" class="card"/>
+      <rect x="50" y="155" width="7" height="135" rx="3.5" fill="#56D5FF"/>
+      <text x="74" y="193" class="role" fill="#56D5FF">TRUST / EXECUTION</text>
+      <text x="74" y="236" class="title" style="font-size:31px">AUREON-HERMES</text>
+      <text x="74" y="267" class="body">admission · authorization · verification · recovery</text>
+    </g>
+    <g>
+      <rect x="50" y="312" width="700" height="135" rx="18" class="card"/>
+      <rect x="50" y="312" width="7" height="135" rx="3.5" fill="#E8F0F5"/>
+      <text x="74" y="350" class="role" fill="#E8F0F5">PRESENCE</text>
+      <text x="74" y="393" class="title" style="font-size:35px">MIRA</text>
+      <text x="74" y="424" class="body">voice · multimodal interaction · operator control</text>
+    </g>
+    <g>
+      <rect x="50" y="469" width="700" height="135" rx="18" class="card"/>
+      <rect x="50" y="469" width="7" height="135" rx="3.5" fill="#56D5FF"/>
+      <text x="74" y="507" class="role" fill="#56D5FF">EVIDENCE / CANON</text>
+      <text x="74" y="550" class="title" style="font-size:31px">SPIDER SENSE</text>
+      <text x="74" y="581" class="body">sources · freshness · contradiction · synthesis</text>
+    </g>
+    <g>
+      <rect x="50" y="626" width="700" height="135" rx="18" class="card"/>
+      <rect x="50" y="626" width="7" height="135" rx="3.5" fill="#E8F0F5"/>
+      <text x="74" y="664" class="role" fill="#E8F0F5">COORDINATION / EVOLUTION</text>
+      <text x="74" y="707" class="title" style="font-size:33px">AUTOMATA</text>
+      <text x="74" y="738" class="body">scope · leases · handoffs · architecture memory</text>
+    </g>
+    <g>
+      <rect x="50" y="925" width="700" height="125" rx="18" class="card"/>
+      <rect x="50" y="925" width="7" height="125" rx="3.5" fill="#56D5FF"/>
+      <text x="74" y="963" class="role" fill="#56D5FF">GOVERNANCE WORLDS</text>
+      <text x="74" y="1006" class="title" style="font-size:28px">PRAXEON / TELAXIS</text>
+      <text x="74" y="1037" class="body">bounded decisions · persistent consequence</text>
+    </g>
+    <g>
+      <rect x="50" y="1070" width="700" height="125" rx="18" class="card"/>
+      <rect x="50" y="1070" width="7" height="125" rx="3.5" fill="#E8F0F5"/>
+      <text x="74" y="1108" class="role" fill="#E8F0F5">EMERGENT SIMULATION</text>
+      <text x="74" y="1151" class="title" style="font-size:26px">AGENT SANDBOX / INKWAKE</text>
+      <text x="74" y="1182" class="body">deterministic worlds · inspectable change</text>
+    </g>
+    <g>
+      <rect x="50" y="1215" width="700" height="125" rx="18" class="card"/>
+      <rect x="50" y="1215" width="7" height="125" rx="3.5" fill="#56D5FF"/>
+      <text x="74" y="1253" class="role" fill="#56D5FF">HUMAN AUGMENTATION</text>
+      <text x="74" y="1296" class="title" style="font-size:26px">GHOST WRITER / GHOSTPASTE</text>
+      <text x="74" y="1327" class="body">quiet previews · explicit acceptance</text>
+    </g>
+    <g>
+      <rect x="50" y="1360" width="700" height="135" rx="18" class="card"/>
+      <rect x="50" y="1360" width="7" height="135" rx="3.5" fill="#E8F0F5"/>
+      <text x="74" y="1398" class="role" fill="#E8F0F5">SUPPORTING SYSTEMS</text>
+      <text x="74" y="1441" class="title" style="font-size:25px">PIXELFORGE + CONTEXT HUB</text>
+      <text x="74" y="1472" class="body">Reddit Monitor · proof lanes · continuity</text>
+    </g>
+<g stroke="#56d5ff" stroke-width="2" opacity=".65"><line x1="400" y1="290" x2="400" y2="312"/><line x1="400" y1="447" x2="400" y2="469"/><line x1="400" y1="604" x2="400" y2="626"/><line x1="400" y1="761" x2="400" y2="795"/></g>
+<rect x="50" y="795" width="700" height="105" rx="20" fill="#081018" stroke="#56d5ff" stroke-width="2"/>
+<text x="400" y="836" text-anchor="middle" class="rail-title">SHARED DAS SUBSTRATE</text>
+<text x="400" y="867" text-anchor="middle" class="rail-body">authority · provenance · budgets · recovery · rollback</text>
+<text x="400" y="891" text-anchor="middle" fill="#56d5ff" style="font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:650;font-size:11px;letter-spacing:1.5px">MODELS AND PROVIDERS REMAIN REPLACEABLE</text>
+<line x1="400" y1="900" x2="400" y2="925" stroke="#7b8f9b" stroke-width="2"/>
+<line x1="80" y1="1535" x2="720" y2="1535" stroke="#526773"/>
+<text x="400" y="1565" text-anchor="middle" fill="#aebbc4" style="font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:650;font-size:11px;letter-spacing:1.3px">NO SHARED PRIVATE MEMORY · SECRETS · OR EARNED AUTHORITY</text>
+</svg>
