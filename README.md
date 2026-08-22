@@ -5,8 +5,6 @@
   </picture>
 </p>
 
-<h1 align="center">Cameron Marriott</h1>
-
 <p align="center">
   <strong>Founder &amp; AI Systems Architect · Direct Autonomy Systems</strong>
 </p>
