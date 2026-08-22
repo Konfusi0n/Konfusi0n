@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/das-profile-banner-mobile.png" />
+    <source media="(max-width: 768px)" srcset="./assets/das-profile-banner-mobile.png" />
     <img src="./assets/das-profile-banner.png" alt="Direct Autonomy Systems — Cameron Marriott. Bounded agents, visible evidence, human authority." width="100%" />
   </picture>
 </p>
@@ -12,19 +12,27 @@
 </p>
 
 <p align="center">
-  I build bounded, persistent, evidence-aware AI systems for real work, human collaboration, research, developer coordination, and emergent worlds.
+  I build bounded AI agents and automation that move real work forward while keeping evidence, recovery, and human authority visible.
 </p>
 
 <p align="center">
-  <a href="https://directautonomy.com"><strong>Website</strong></a>
+  <a href="mailto:founder@directautonomy.com"><strong>Work with DAS</strong></a>
   &nbsp;·&nbsp;
-  <a href="mailto:founder@directautonomy.com"><strong>Email</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Konfusi0n/Konfusi0n/discussions"><strong>Public Discussions</strong></a>
+  <a href="https://github.com/Konfusi0n/Konfusi0n/discussions/new?category=general"><strong>Start a conversation</strong></a>
 </p>
 
 <p align="center">
-  AI Systems Engineering · Agent Architecture · Workflow Automation · Research Systems · Developer Tooling · Deterministic Simulation
+  <a href="#what-das-builds">Capabilities</a>
+  &nbsp;·&nbsp;
+  <a href="#the-experience-standard">Experience</a>
+  &nbsp;·&nbsp;
+  <a href="#the-das-foundry">Foundry</a>
+  &nbsp;·&nbsp;
+  <a href="#products-and-proving-grounds">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="#engineering-doctrine">Doctrine</a>
+  &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
 ---
@@ -41,53 +49,69 @@ DAS is not a collection of unrelated chatbot demos. Each project investigates a 
 
 ---
 
+## What DAS builds
+
+DAS works on problems where AI, automation, or custom software can create meaningful leverage without hiding responsibility behind a model:
+
+- **Bounded AI agents** with explicit tools, permissions, identity, memory, budgets, interruption, and recovery.
+- **Workflow automation and custom integrations** across APIs, operational data, business processes, and human approval.
+- **Evidence-backed research and monitoring** with provenance, freshness, contradiction handling, and traceable synthesis.
+- **Discord-native systems** for agents, voice collaboration, simulations, games, and persistent community experiences.
+- **Agent infrastructure and developer tooling** for context, orchestration, evaluation, release evidence, and safe handoffs.
+- **Deterministic simulations and custom software** where state, causality, replay, and explainability matter.
+
+> The starting unit is not “add AI everywhere.” It is **one bounded workflow, one accountable owner, one success contract, and evidence that the system worked.**
+
+---
+
+## The experience standard
+
+The best agent experience should feel less like managing a chatbot and more like collaborating with a capable system that knows its limits. I design for:
+
+- **Continuity without repetition.** Preserve the context that matters while keeping identity and private state scoped.
+- **Initiative without surprise.** Move work forward inside explicit authority; stop cleanly when a decision belongs to a person.
+- **Progress without babysitting.** Surface state, evidence, uncertainty, cost, and the next useful action.
+- **Control without friction.** Make interruption, revocation, retry, recovery, and rollback part of the experience.
+- **Results with receipts.** Connect outputs to sources, decisions, versions, changes, and verification.
+
+> **The magic is not hidden autonomy. It is useful initiative with a trustworthy handback.**
+
+---
+
 ## The DAS foundry
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/das-foundry-map-mobile.svg" />
-    <img src="./assets/das-foundry-map.svg" alt="The Direct Autonomy Systems foundry: Aureon-Hermes, Mira, Spider Sense, and Automata share bounded-authority doctrine while supporting distinct products and proving grounds." width="100%" />
+    <source media="(max-width: 768px)" srcset="./assets/das-foundry-map-mobile.png" />
+    <img src="./assets/das-foundry-map.png" alt="The Direct Autonomy Systems foundry connects four distinct core systems—Aureon-Hermes, Mira, Spider Sense, and Automata—to shared bounded-authority infrastructure and separate proving grounds." width="100%" />
   </picture>
 </p>
 
-### Core systems
-
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Aureon-Hermes</h3>
-      <strong>Trust &amp; execution.</strong> The DAS agent-runtime and control-plane foundation: explicit permissions, typed admission, bounded actions, verification, receipts, revocation, recovery, and rollback. It is where useful model proposals become—or fail to become—authorized system behavior.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>Mira</h3>
-      <strong>Presence &amp; interaction.</strong> A Discord-native AI operations room for voice, research, memory, image and audio creation, live progress, interruption, and multimodal collaboration. Mira explores how an agent becomes responsive, understandable, and genuinely useful without becoming noisy or presumptuous.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>Spider Sense</h3>
-      <strong>Evidence &amp; canon.</strong> A local-first investigation and evidence system for crawling, ingestion, graph reasoning, source ranking, contradiction checks, freshness, and traceable synthesis. Spider Sense helps agents know what is observed, what is claimed, what conflicts, and what remains unresolved.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>Automata</h3>
-      <strong>Coordination &amp; evolution.</strong> A bounded coordination layer for coding agents and complex projects: work scopes, edit leases, mailboxes, architecture memory, impact analysis, handoffs, review briefs, and proof-aware operator surfaces. Improvements become reviewable candidates—not silent self-modification.
-    </td>
-  </tr>
-</table>
-
 > **Aureon governs action. Mira creates presence. Spider Sense grounds claims. Automata coordinates change.**
+
+### Aureon-Hermes — trust and execution
+
+The DAS agent-runtime and control-plane foundation: explicit permissions, typed admission, bounded actions, verification, receipts, revocation, recovery, and rollback. It is where useful model proposals become—or fail to become—authorized system behavior.
+
+### Mira — presence and interaction
+
+A Discord-native AI operations room for voice, research, memory, image and audio creation, progress, interruption, and multimodal collaboration. Mira explores how an agent becomes responsive, understandable, and useful without becoming noisy or presumptuous.
+
+### Spider Sense — evidence and canon
+
+A local-first investigation and evidence system for crawling, ingestion, graph reasoning, source ranking, contradiction checks, freshness, and traceable synthesis. Spider Sense helps agents distinguish observation, claim, inference, conflict, and unresolved uncertainty.
+
+### Automata — coordination and evolution
+
+A bounded coordination layer for coding agents and complex projects: work scopes, edit leases, mailboxes, architecture memory, impact analysis, handoffs, review briefs, and proof-aware operator surfaces. Improvements become reviewable candidates—not silent self-modification.
 
 ---
 
 ## Products and proving grounds
 
-These systems test the DAS doctrine under different pressures rather than merely demonstrating the same chatbot in different skins.
+These systems test the DAS doctrine under different pressures rather than presenting the same chatbot in different skins.
 
-- **Praxeon &amp; Telaxis — living governance worlds.** Paired Discord-native NationStates experiments that explore autonomous policy, constitutional limits, public records, persistent consequence, and the difference between optimizing outcomes and preserving legitimate authority.
+- **Praxeon &amp; Telaxis — living governance worlds.** Paired Discord-native NationStates experiments exploring autonomous policy, constitutional limits, public records, persistent consequence, and the difference between optimizing outcomes and preserving legitimate authority.
 - **Agent Sandbox — inspectable emergence.** A deterministic living world where pressure, experimentation, memory, teaching, trade, institutions, construction, and culture can compound into visible civilizational change without allowing generated narration to become world truth.
 - **Inkwake — a simulation-first RPG oracle.** A browser-native persistent world where player language creates proposals, deterministic simulation decides what can become real, and every admitted consequence remains explainable and replayable.
 - **Ghost Writer / Ghostline — writer-led continuity.** A quiet browser writing layer that offers one reversible, editor-local continuation and commits text only after explicit, current-context acceptance.
@@ -99,9 +123,9 @@ These systems test the DAS doctrine under different pressures rather than merely
 
 ### Agent foundations and interaction
 
-- **Aureon-Hermes** — a DAS-hardened agent runtime built around Hermes Agent, focused on authority, execution safety, operator control, evidence, and deployment-grade proof.
-- **Mira / Agentic Discord** — the Discord-native presence layer for text, live voice, research, memory, image generation, music, sound effects, progress cards, and human interruption.
-- **Avarice** — an internal commercial-operations experiment for bounded lead, opportunity, and revenue-support workflows. It is not an independent financial authority.
+- **Aureon-Hermes** — a DAS-hardened private agent platform built on the Hermes Agent foundation, focused on authority, execution safety, operator control, evidence, recovery, and release proof.
+- **Mira / Agentic Discord** — the Discord-native presence layer for text, voice, research, memory, image generation, music, sound effects, progress cards, and human interruption.
+- **Avarice** — an internal commercial-operations experiment for bounded lead, opportunity, and revenue-support workflows; it is not an independent financial authority.
 
 ### Evidence, context, and coordination
 
@@ -114,7 +138,7 @@ These systems test the DAS doctrine under different pressures rather than merely
 ### Simulations and persistent worlds
 
 - **Agent Sandbox** — deterministic agent society, physical economy, construction, institutions, precedent, governance, and inspectable emergence in C# and Godot.
-- **Praxeon** — a constitutional NationStates intelligence that emphasizes citizen agency, accountable power, consequence lineage, and tamper-evident public records.
+- **Praxeon** — a constitutional NationStates intelligence emphasizing citizen agency, accountable power, consequence lineage, and tamper-evident public records.
 - **Telaxis** — Praxeon’s distinct sovereign-optimization counterpart: a separate identity and directive used to test how the same substrate behaves under different governing aims.
 - **Inkwake** — a browser-based living ink world where prompt-driven action remains subordinate to deterministic state admission.
 - **Echoes of the Veil** — an earlier deterministic simulation laboratory whose lessons feed later work in world state, causality, agents, and emergent narrative.
@@ -126,10 +150,10 @@ These systems test the DAS doctrine under different pressures rather than merely
 - **PixelForge** — deterministic compilation, validation, lineage, and delivery of pixel-art representation for games and simulations.
 - **Ghostwrite Web** — the accessible, dependency-light product surface for Ghost Writer, including interactive demonstration and deployment tooling.
 
-### Verification and infrastructure
+### Verification, release, and public infrastructure
 
-- **Aureon Linux-native Proof Lane** — a separate evidence-closing repository for exact Linux runtime validation. It proves a bounded subject only; it does not collapse CI, deployment, serving, or live operation into one claim.
-- **DAS profile and brand system** — this public portfolio surface, company identity, and the future home for independently verified demos, case studies, and release evidence.
+- **Aureon Linux-native Proof Lane** — a separate evidence-closing lane for exact Linux runtime validation. It proves one bounded subject only; it does not collapse CI, deployment, serving, or live operation into one claim.
+- **DAS profile and brand system** — this public company and portfolio surface, designed to become the entry point for independently scoped demos, case studies, release evidence, and client work.
 
 </details>
 
@@ -137,7 +161,7 @@ These systems test the DAS doctrine under different pressures rather than merely
 
 ## How the portfolio compounds
 
-The portfolio is designed to turn hard-won project lessons into reusable leverage:
+The portfolio is designed to convert difficult project lessons into reusable leverage:
 
 ```text
 problem found in one system
@@ -145,25 +169,10 @@ problem found in one system
     → deterministic test and proof
     → reusable law, pack, or evaluation
     → proof in a second distinct system
-    → client or product outcome
+    → product or client outcome
 ```
 
 Products may inherit substrate, doctrine, tools, packs, and evaluations. They do **not** inherit private user state, secrets, identity, or trust that another system earned. A model is a replaceable capability inside the architecture—not the architecture itself.
-
----
-
-## What DAS builds for clients
-
-DAS works on problems where AI, automation, or custom software can create meaningful leverage without hiding responsibility behind a model:
-
-- bounded AI agents with explicit tools, permissions, memory, budgets, and recovery;
-- workflow automation and custom integrations across APIs, data, and human approval;
-- evidence-backed research, monitoring, retrieval, and decision-support systems;
-- Discord-native agents, games, simulations, and collaborative experiences;
-- agent harnesses, evaluation infrastructure, context systems, and developer tooling;
-- deterministic simulations and custom software where state, causality, and replay matter.
-
-> The starting unit is not “add AI everywhere.” It is **one bounded workflow, one accountable owner, one success contract, and evidence that the system worked.**
 
 ---
 
@@ -179,38 +188,22 @@ DAS works on problems where AI, automation, or custom software can create meanin
 
 ---
 
-## Building toward next
+<details>
+<summary><strong>Current build priorities</strong></summary>
+<br/>
 
-My near-term work is concentrated on turning the portfolio into a coherent, commercially useful systems foundry:
+1. **Harden the trust and execution substrate** so authority, evidence, recovery, and release proof become reusable across distinct systems.
+2. **Make existing capability immediately legible** through focused first-minute experiences, visible state, interruption, receipts, recovery, and public demonstrations with exact scope.
+3. **Turn proven project laws into customer value** through reusable packs, integrations, and paid outcomes under Direct Autonomy Systems.
 
-1. **Harden the trust and execution substrate** in Aureon-Hermes so authority, evidence, recovery, and release proof are reusable across descendants.
-2. **Prove the same laws in distinct systems** through Mira, Praxeon, Telaxis, Agent Sandbox, and other deliberately different environments.
-3. **Make the existing capability immediately legible** through excellent first-minute experiences, live state, interruption, receipts, recovery, and focused public demos.
-4. **Publish proof without overstating it** through exact subjects, repeatable evaluations, case studies, and clear separation between implemented, validated, deployed, serving, and live.
-5. **Turn research into customer value** by converting successful project laws into reusable packs, integrations, and paid outcomes under Direct Autonomy Systems.
-
----
+</details>
 
 ## Working stack
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>C# · TypeScript · Python · JavaScript</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks &amp; runtimes</strong></td>
-    <td>.NET · Node.js · React · Godot · browser extensions</td>
-  </tr>
-  <tr>
-    <td><strong>Platforms &amp; infrastructure</strong></td>
-    <td>Discord · REST APIs · GitHub Actions · Docker · Linux/VPS · SQLite</td>
-  </tr>
-  <tr>
-    <td><strong>Systems work</strong></td>
-    <td>agent harnesses · voice and multimodal UX · deterministic simulation · evidence graphs · browser automation · evaluation and proof pipelines</td>
-  </tr>
-</table>
+- **Languages:** C# · TypeScript · Python · JavaScript
+- **Frameworks and runtimes:** .NET · Node.js · React · Godot · browser extensions
+- **Platforms and infrastructure:** Discord · REST APIs · GitHub Actions · Docker · Linux/VPS · SQLite
+- **Systems work:** agent harnesses · voice and multimodal UX · deterministic simulation · evidence graphs · browser automation · evaluation and proof pipelines
 
 ---
 
@@ -227,11 +220,9 @@ A public description is not a claim that a system is deployed, generally availab
 DAS is open to thoughtful conversations with founders, builders, engineers, and business owners working on serious agent systems, workflow automation, research tooling, Discord experiences, simulations, developer infrastructure, or ambitious custom software.
 
 <p align="center">
-  <a href="https://directautonomy.com"><strong>directautonomy.com</strong></a>
-  &nbsp;·&nbsp;
   <a href="mailto:founder@directautonomy.com"><strong>founder@directautonomy.com</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Konfusi0n/Konfusi0n/discussions"><strong>Start a public GitHub discussion</strong></a>
+  <a href="https://github.com/Konfusi0n/Konfusi0n/discussions/new?category=general"><strong>Start a public conversation</strong></a>
 </p>
 
 <p align="center"><sub>Please do not include confidential, credential-bearing, or sensitive information in public discussions.</sub></p>
