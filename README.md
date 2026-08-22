@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 768px)" srcset="./assets/das-profile-banner-mobile.png" />
-    <img src="./assets/das-profile-banner.png" alt="Direct Autonomy Systems — Cameron Marriott. Bounded agents, visible evidence, human authority." width="100%" />
+    <img src="./assets/das-profile-banner.png" alt="Direct Autonomy Systems. Bounded agents, visible evidence, human authority." width="100%" />
   </picture>
 </p>
 
